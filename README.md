@@ -1,35 +1,43 @@
-### Hello! I am Igor 👋
-
-
-
-- Sou entusiasta e estudante de tecnologia, aprimorando conhecimentos na área de desenvolvimento com Java, Spring Boot e Desenvolvimento Web.
-- Aprendendo ReactJS e TypeScript, bem como JPA, Hibernate, UML, MySQL, MongoDB, dentre outras ferramentas utilizadas no mercado de trabalho.
-
-- I'm an enthusiast and student of technology, improving knowledge in the area of ​​development with Java, Spring Boot and Web Development.
-- Learning ReactJS and TypeScript, as well as JPA, Hibernate, UML, MySQL, MongoDB, among other tools used in the job market.
+# Igor Carvalho Achete | Software Developer 🚀
 
 <div align="center">
-  <a href="https://github.com/Achette">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Achette&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achette&layout=compact&langs_count=7&theme=dark"/>
-</div>
-</div>
-<div style="display: inline_block"><br>
-   
-  <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img img align="center" alt="Igor-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-  <img align="center" alt="Igor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
-  <img align="center" alt="Igor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <a href="#-sobre-mim">Português</a> • <a href="#-about-me">English</a>
 </div>
 
-##
-
-<div> 
-  <a href = "mailto:iggys.achete@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/igor-achete/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Achette/Achette/blob/output/github-contribution-grid-snake.svg)
- 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Achette&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achette&layout=compact&theme=tokyonight&hide_langs=html,css,jupyter%20notebook" height="180em" />
 </div>
+
+---
+
+### 👨‍💻 Sobre Mim
+Desenvolvedor **Front-end Mid-level** com sólida base acadêmica em **Desenvolvimento de Software Multiplataforma**. Atuo na construção de interfaces performáticas, escaláveis e centradas na experiência do usuário (UX). 
+
+- 🎓 **Graduado** em Desenvolvimento de Software Multiplataforma.
+- 🏗️ Especialista em **React, TypeScript e Ecossistema Web moderno**.
+- ☕ Entusiasta de **Java (Spring Boot, JPA, Hibernate)**.
+
+---
+
+### 👨‍💻 About Me
+**Mid-level Front-end Developer** with a solid academic background in **Multiplatform Software Development**. I focus on building high-performance, scalable interfaces centered on User Experience (UX).
+
+- 🎓 **B.S. degree** in Multiplatform Software Development.
+- 🏗️ Specialist in **React, TypeScript, and the modern Web Ecosystem**.
+- ☕ **Java Enthusiast** (Spring Boot, JPA, Hibernate).
+
+---
+
+### 🛠️ Stack Tecnológica / Tech Stack
+
+#### **Front-end (Main Core)**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### **Backend & Database**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+
+### 📫 Conecte-se comigo / Connect with me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-achete/)
+[![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:i.achette@live.com)
